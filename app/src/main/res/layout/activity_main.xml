@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.ivan.flowlayout.FlowLayout
+        android:background="@color/colorAccent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="哈哈1"
+            style="@style/text_flag_01"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="哈哈2"
+            style="@style/text_flag_01"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="哈哈3"
+            style="@style/text_flag_01"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="哈哈4"
+            style="@style/text_flag_01"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="哈哈5"
+            style="@style/text_flag_01"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="哈哈6"
+            style="@style/text_flag_01"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="哈哈7"
+            style="@style/text_flag_01"
+            android:layout_height="wrap_content" />
+
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:text="哈哈8"-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:layout_height="wrap_content" />-->
+
+
+    </com.ivan.flowlayout.FlowLayout>
+
+
+</LinearLayout>
