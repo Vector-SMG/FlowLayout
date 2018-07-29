@@ -17,7 +17,7 @@ import java.util.List;
 public class FlowLayout extends ViewGroup {
     //每一行的view集合
     private List<List<View>> mViewLinesList = new ArrayList<>();
-    //每一列的高度集合
+    //每一行的高度集合
     private List<Integer> mLineHeights = new ArrayList<>();
 
 
